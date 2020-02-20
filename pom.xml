@@ -5,12 +5,12 @@
      <modelVersion>4.0.0</modelVersion>
  
      <groupId>hello</groupId>
-     <artifactId>HelloWorld</artifactId>
+     <artifactId>web-8080-nc</artifactId>
      <packaging>war</packaging>
      <version>1.0-SNAPSHOT</version>
  
      <build>
-         <finalName>HelloWorld</finalName>
+         <finalName>web-8080-nc</finalName>
      </build>
  
      
